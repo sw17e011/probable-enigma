@@ -2,5 +2,5 @@
 Das ist mein erstes repository
 
 Reviewarten
--Die Reviewarten unterscheiden sich hinsichtlich
+-Die Reviewarten unterscheiden sich hinsichtlich!!
 
